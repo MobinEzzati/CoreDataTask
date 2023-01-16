@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "878864518e90b0a4833881398b846656fdaaa6a1d14a5b88cfe1a105f4f6a98c"
+build_start_time: [1673475306, 662438869]
+build_end_time: [1673475306, 730865001]
+inputs:
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/Utlity/Constant.swift": !private [1673278633, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/AppDelegate.swift": !private [1673463259, 502213478]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/SceneDelegate.swift": !private [1673015065, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/NoteViewController.swift": !private [1673471948, 199466705]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/ViewController.swift": !private [1673471948, 89406490]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/database/CoreDataManager.swift": !private [1673471948, 261700153]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/CoreDataTraning+CoreDataModel.swift"
+  : !private [1673475306, 536710500]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataClass.swift"
+  : !private [1673475306, 541330814]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataProperties.swift"
+  : !private [1673475306, 544831275]

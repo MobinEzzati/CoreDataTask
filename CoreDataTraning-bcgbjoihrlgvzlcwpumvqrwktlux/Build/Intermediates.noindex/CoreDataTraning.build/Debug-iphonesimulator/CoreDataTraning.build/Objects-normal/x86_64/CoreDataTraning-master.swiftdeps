@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3017696e1537830eb9ea237c1f788107899a1cc9cb52a07da02d479e5802a829"
+build_start_time: [1673620391, 762310981]
+build_end_time: [1673620413, 604204177]
+inputs:
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphonesimulator/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/CoreDataTraning+CoreDataModel.swift"
+  : [1673620382, 710130453]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphonesimulator/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataClass.swift"
+  : [1673620382, 740227222]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphonesimulator/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataProperties.swift"
+  : [1673620382, 742470741]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/Utlity/Constant.swift": [1673486280, 252522706]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/AppDelegate.swift": [1673463259, 502213478]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/SceneDelegate.swift": [1673015065, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/NoteViewController.swift": [1673495678, 181226730]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/ViewController.swift": [1673492502, 50584793]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/database/CoreDataManager.swift": [1673476810, 598200321]

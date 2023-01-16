@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1E2D4514-546F-44E0-BE07-E98071963224</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>391717F8-EC30-4CE9-AD86-C05F4854A366</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CoreDataTraning-2023.01.13_08-32-52--0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataTraning project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataTraning</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CoreDataTraning</string>
+			<key>timeStartedRecording</key>
+			<real>695313172.979846</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CoreDataTraning</string>
+			<key>uniqueIdentifier</key>
+			<string>1E2D4514-546F-44E0-BE07-E98071963224</string>
+		</dict>
+		<key>9481A4A5-87DA-4E64-AA1F-92C26C26F2BF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6BE9B7B0-B4AF-4711-8626-91AC26FB0701</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-CoreDataTraning-2023.01.11_21-54-38--0600.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataTraning project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataTraning</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run CoreDataTraning</string>
+			<key>timeStartedRecording</key>
+			<real>695188478.19290102</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run CoreDataTraning</string>
+			<key>uniqueIdentifier</key>
+			<string>9481A4A5-87DA-4E64-AA1F-92C26C26F2BF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

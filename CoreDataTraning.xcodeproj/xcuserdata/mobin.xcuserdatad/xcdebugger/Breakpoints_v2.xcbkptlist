@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B86BE06-F264-412B-A807-A04763449704"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BD0DD61-08B6-431F-9318-EBF3850EF45B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - 260de34cdef7bbf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.segment.getter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - e6a75e6a997993f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.segment.setter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - f5cbacb1e5fe35e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.segment.modify : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - 5956eb81790a8c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.segment.modify : Swift.Optional&lt;__C.UISegmentedControl&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - e24c081b151b5c2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CoreDataTraning.ViewController"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "C7C74D45-7203-4B5D-AA2B-E3DFCBC7377C - 2b57e964b323f62c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTraning.ViewController&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning/CoreDataTraning/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "181D393D-A2B1-49DC-96DF-5210E85C2C95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ccontrollers/NoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FE11D06-AB60-46D7-8567-C76570474032"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ccontrollers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "getNote(note:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E96F1686-F768-4A97-A33F-6E3A77312051"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ddatabase/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ccontrollers/NoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905 - ac5e0a8ef9783e0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.NoteViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CoreDataTraning.NoteViewController"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Downloads/CoreDataTraning%202/CoreDataTraning/ccontrollers/NoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905 - a8c3ce7388066639"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.NoteViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CoreDataTraning.NoteViewController"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Downloads/CoreDataTraning%202/CoreDataTraning/ccontrollers/NoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905 - 14b2b8c9645f20a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.NoteViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTraning.NoteViewController&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Downloads/CoreDataTraning%202/CoreDataTraning/ccontrollers/NoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905 - b0085ee8c3265be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.NoteViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTraning.NoteViewController&gt;"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Downloads/CoreDataTraning%202/CoreDataTraning/ccontrollers/NoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "331CBDC6-21BF-4EB3-9CD0-4A24F610D905 - adc722dd5b5e782c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTraning.NoteViewController.__deallocating_deinit"
+                  moduleName = "CoreDataTraning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobin/Downloads/CoreDataTraning%202/CoreDataTraning/ccontrollers/NoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89318009-DC2F-4A73-BA1F-94BB235AD2A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTraning/ccontrollers/NoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "NoteViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

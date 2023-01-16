@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ad4d99e61e14eff64feab06f17beb0d9ee62a564024b5da37aa88825a93a703e"
+build_start_time: [1673475315, 274345874]
+build_end_time: [1673475321, 86874961]
+inputs:
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/Utlity/Constant.swift": [1673278633, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/AppDelegate.swift": [1673463259, 502213478]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/SceneDelegate.swift": [1673015065, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/NoteViewController.swift": [1673471948, 199466705]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/ViewController.swift": [1673471948, 89406490]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/database/CoreDataManager.swift": [1673471948, 261700153]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Index.noindex/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/CoreDataTraning+CoreDataModel.swift"
+  : [1673475315, 107485294]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Index.noindex/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataClass.swift"
+  : [1673475315, 110719203]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /DerivedData/CoreDataTraning/Index.noindex/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataProperties.swift"
+  : [1673475315, 114715337]

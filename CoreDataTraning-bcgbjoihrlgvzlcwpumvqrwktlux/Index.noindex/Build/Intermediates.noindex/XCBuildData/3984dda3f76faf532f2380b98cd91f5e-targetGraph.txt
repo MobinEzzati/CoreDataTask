@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+CoreDataTraning in CoreDataTraning, no dependencies
+CoreDataTraning in CoreDataTraning, no dependencies

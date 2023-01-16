@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+CoreDataTraning in CoreDataTraning, no dependencies
+CoreDataTraningUITests in CoreDataTraning, depends on:
+CoreDataTraning in CoreDataTraning (explicit)
+CoreDataTraning in CoreDataTraning, no dependencies
+CoreDataTraningUITests in CoreDataTraning, depends on:
+CoreDataTraning in CoreDataTraning (explicit)
+CoreDataTraningUITests in CoreDataTraning, no dependencies

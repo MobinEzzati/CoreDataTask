@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>391717F8-EC30-4CE9-AD86-C05F4854A366</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>391717F8-EC30-4CE9-AD86-C05F4854A366.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataTraning project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataTraning</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreDataTraning</string>
+			<key>timeStartedRecording</key>
+			<real>695313172.98069298</real>
+			<key>timeStoppedRecording</key>
+			<real>695313213.61728203</real>
+			<key>title</key>
+			<string>Build CoreDataTraning</string>
+			<key>uniqueIdentifier</key>
+			<string>391717F8-EC30-4CE9-AD86-C05F4854A366</string>
+		</dict>
+		<key>4D1230CC-30D1-47F2-857F-B98145FF1DB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D1230CC-30D1-47F2-857F-B98145FF1DB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataTraning project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataTraning</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CoreDataTraning</string>
+			<key>timeStartedRecording</key>
+			<real>695218996.44069695</real>
+			<key>timeStoppedRecording</key>
+			<real>695218999.17497897</real>
+			<key>title</key>
+			<string>Build CoreDataTraning</string>
+			<key>uniqueIdentifier</key>
+			<string>4D1230CC-30D1-47F2-857F-B98145FF1DB6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "10db2f609898f6648ee5fb5946b5554df6ae656dbe1cf693807e5440b8888b8e"
+build_start_time: [1673475379, 394598007]
+build_end_time: [1673475379, 451582908]
+inputs:
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/CoreDataTraning+CoreDataModel.swift"
+  : !private [1673475379, 289965152]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataClass.swift"
+  : !private [1673475379, 295066833]
+  ? "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning-bcgbjoihrlgvzlcwpumvqrwktlux/Build/Intermediates.noindex/CoreDataTraning.build/Debug-iphoneos/CoreDataTraning.build/DerivedSources/CoreDataGenerated/CoreDataTraning/Item+CoreDataProperties.swift"
+  : !private [1673475379, 301390409]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/Utlity/Constant.swift": !private [1673278633, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/AppDelegate.swift": !private [1673463259, 502213478]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/commonFiles/SceneDelegate.swift": !private [1673015065, 0]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/NoteViewController.swift": !private [1673471948, 199466705]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/controllers/ViewController.swift": !private [1673471948, 89406490]
+  "/Users/mobin/Desktop/project/ios/IOS_TRANINGPROJECTS/CoreDataTraning /CoreDataTraning/database/CoreDataManager.swift": !private [1673471948, 261700153]
